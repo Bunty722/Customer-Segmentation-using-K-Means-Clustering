@@ -82,8 +82,7 @@ Centroids appeared in wrong positions
 
 Solution: Used PCA for consistent 2D visualization
 
-## Final Output / Results
-https://figures/kmeans_clusters.png
+## Final Output
 Customer segments identified by K-Means
 
 **Key Findings:**
